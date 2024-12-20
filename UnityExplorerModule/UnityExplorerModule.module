@@ -1,0 +1,55 @@
+{
+	"Name": "UnityExplorerModule",
+	"Version": "1.0.0.0",
+	"Assemblies":
+	[
+		{
+			"Path": "/0Harmony.dll",
+			"Role": "Client"
+		},
+		{
+			"Path": "/UniverseLib.Mono.dll",
+			"Role": "Client"
+		},
+		{
+			"Path": "/mcs.dll",
+			"Role": "Client"
+		},
+		{
+			"Path": "/Mono.Cecil.dll",
+			"Role": "Client"
+		},
+		{
+			"Path": "/Mono.Cecil.Mdb.dll",
+			"Role": "Client"
+		},
+		{
+			"Path": "/Mono.Cecil.Pdb.dll",
+			"Role": "Client"
+		},
+		{
+			"Path": "/Mono.Cecil.Rocks.dll",
+			"Role": "Client"
+		},
+		{
+			"Path": "/MonoMod.RuntimeDetour.dll",
+			"Role": "Client"
+		},
+		{
+			"Path": "/MonoMod.Utils.dll",
+			"Role": "Client"
+		},
+		{
+			"Path": "/Tomlet.dll",
+			"Role": "Client"
+		},
+		{
+			"Path": "/UnityExplorer.STANDALONE.Mono.dll",
+			"Role": "Client"
+		},
+		{
+			"Path": "/UnityExplorer.dll",
+			"Role": "Client"
+		}
+	]
+}
